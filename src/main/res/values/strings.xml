@@ -1,26 +1,21 @@
 <resources>
-    <string name="app_name">Quiz</string>
+    <string name="app_name">Zadanie 9</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
 
-    //przyciski
-    <string name="button_true">Prawda</string>
-    <string name="button_false">Fałsz</string>
-    <string name="button_next">Następny</string>
-    <string name="button_hint">Pokaz podpowiedz</string>
-    <string name="button_hint2">Podpowiedz</string>
-    //pytania
-    <string name="Prostokat">Czy każdy prostokąt jest kwadratem?</string>
-    <string name="okrag">Czy styczna okręgu ma z nim tylko 1 punkt wspólny?</string>
-    <string name="trojkat">Czy trójkąt równoboczny ma kąt 90 stopni?</string>
-    <string name="promien">Czy każdy okrąg może mieć tylko określoną liczbę promieni?</string>
-    <string name="srednica">Czy średnica okręgu ma dwukrotną długość promienia?</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 
-    //odpowiedzi
-    <string name="correct_answer">Poprawnie</string>
-    <string name="incorrect_answer">Niepoprawnie</string>
+    <string name="hint_book_title">Title...</string>
+    <string name="hint_book_author">Author...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Book not saved because there are empty fields</string>
+    <string name="book_added">Book added</string>
 
-    //You sure?
-    <string name="u_sure">Czy na pewno chcesz zobaczyc podpowiedz?</string>
-
-    //Oszustwo
-    <string name="answerwasshown">Oszust! Podpowiedz już była wyświetlona</string>
+    <string name="book_title">Title:</string>
+    <string name="book_author">Author:</string>
 </resources>
