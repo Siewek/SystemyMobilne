@@ -1,0 +1,52 @@
+
+Ponownie wklejam link do kodu
+
+!!!!!Zadanie było pokazane na zajęciach i zostałem poproszony o ponowne przesłanie pliku z logami!!!!!!!
+
+
+
+https://drive.google.com/file/d/1S8UAJT3Tqb8UJra-_gwrLvEBUCAY9X9U/view?usp=sharing
+
+////////////////////////////////////////////////////////////////////////////////////////
+Cykl Źycia Aplikacji
+////////////////////////////////////////////////////////////////////////////////////////
+
+Po pierwszym uruchomieniu aplikacji:
+
+2021-11-08 21:43:49.502 8140-8140/com.example.zadanie1 D/Main activity: wywołana została metoda cyklu życia onCreate
+2021-11-08 21:43:49.721 8140-8140/com.example.zadanie1 D/Main activity: wywołana została metoda cyklu życia onStart
+2021-11-08 21:43:49.725 8140-8140/com.example.zadanie1 D/Main activity: wywołana została metoda cyklu życia onResume
+
+Po wciśnięciu przycisku Cofnij
+
+2021-11-08 21:48:54.630 8606-8606/com.example.zadanie1 D/Main activity: wywołana została metoda cyklu życia onPause
+2021-11-08 21:48:55.083 8606-8606/com.example.zadanie1 D/Main activity: wywołana została metoda cyklu życia onStop
+2021-11-08 21:48:55.087 8606-8606/com.example.zadanie1 D/Main activity: wywołana została metoda cyklu życia onDestroy
+
+
+Po ponownym uruchomieniu aplikacji
+
+2021-11-08 21:49:10.245 8606-8606/com.example.zadanie1 D/Main activity: wywołana została metoda cyklu życia onCreate
+2021-11-08 21:49:10.320 8606-8606/com.example.zadanie1 D/Main activity: wywołana została metoda cyklu życia onStart
+2021-11-08 21:49:10.323 8606-8606/com.example.zadanie1 D/Main activity: wywołana została metoda cyklu życia onResume
+
+Po wciśnięciu przycisku ekranu głównego Home
+
+2021-11-08 21:49:43.367 8606-8606/com.example.zadanie1 D/Main activity: wywołana została metoda cyklu życia onPause
+2021-11-08 21:49:43.809 8606-8606/com.example.zadanie1 D/Main activity: wywołana została metoda cyklu życia onStop
+
+Po powrocie do aplikacji z listy ostatnio używanych aplikacji
+
+2021-11-08 21:50:11.521 8606-8606/com.example.zadanie1 D/Main activity: wywołana została metoda cyklu życia onStart
+2021-11-08 21:50:11.522 8606-8606/com.example.zadanie1 D/Main activity: wywołana została metoda cyklu życia onResume
+
+
+Gdy telefon został obrócony i przeszedł w tryb landscape bufor pytań się zresetował i quiz wrócił do pierwszego pytania.
+.
+
+
+Ponownie wklejam link do kodu
+
+https://drive.google.com/file/d/1S8UAJT3Tqb8UJra-_gwrLvEBUCAY9X9U/view?usp=sharing
+
+Link do google drive. Świadomie nie wrzuciłem filmu gdyż mam aplikację zainstalowaną fizycznie na telefonie i planuję pokazać na zajęciach.

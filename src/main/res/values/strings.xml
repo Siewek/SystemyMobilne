@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    //przyciski
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następny</string>
+    <string name="button_hint">Pokaz podpowiedz</string>
+    <string name="button_hint2">Podpowiedz</string>
+    //pytania
+    <string name="Prostokat">Czy każdy prostokąt jest kwadratem?</string>
+    <string name="okrag">Czy styczna okręgu ma z nim tylko 1 punkt wspólny?</string>
+    <string name="trojkat">Czy trójkąt równoboczny ma kąt 90 stopni?</string>
+    <string name="promien">Czy każdy okrąg może mieć tylko określoną liczbę promieni?</string>
+    <string name="srednica">Czy średnica okręgu ma dwukrotną długość promienia?</string>
+
+    //odpowiedzi
+    <string name="correct_answer">Poprawnie</string>
+    <string name="incorrect_answer">Niepoprawnie</string>
+
+    //You sure?
+    <string name="u_sure">Czy na pewno chcesz zobaczyc podpowiedz?</string>
+
+    //Oszustwo
+    <string name="answerwasshown">Oszust! Podpowiedz już była wyświetlona</string>
+</resources>
