@@ -1,0 +1,11 @@
+/*
+  Localizable.strings
+  Zadanie 3
+
+  Created by Michał on 06/11/2021.
+  Copyright © 2021 Michał. All rights reserved.
+*/
+
+"image"="wi-pl";
+"Information"="Informacje";
+"The faculty is running %i programs on graduate and undergraduate level."="Wydział prowadzi %i programy studiów na poziomie magisterskim i licencjackim.";

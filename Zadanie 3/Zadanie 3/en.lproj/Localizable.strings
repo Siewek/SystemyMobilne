@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Zadanie 3
+
+  Created by Michał on 06/11/2021.
+  Copyright © 2021 Michał. All rights reserved.
+*/
+
+"image"="wi-en";
+"Information"="Information";
+"The faculty is running %i programs on graduate and undergraduate level."=" The faculty is running %i programs on graduate and undergraduate level.";
