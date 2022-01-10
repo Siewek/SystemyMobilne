@@ -1,0 +1,16 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="task_name_hint">Wprowadź nazwę zadania</string>
+    <string name="task_name_label">Nazwa</string>
+    <string name="task_details_label">Szczegóły</string>
+    <string name="task_done_label">Wykonane</string>
+    <string name="task_add_new">Nowe Zadanie</string>
+    <string name="show_subtitle">Pokaz podtytul</string>
+    <string name="hide_subtitle">Ukryj podtytul</string>
+    <string name="subtitle_format">%1$d zadań</string>
+    <string name="app_name">Zadanie 7 Michał Olesiewicz</string>
+
+
+</resources>
